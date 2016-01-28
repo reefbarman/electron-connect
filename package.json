@@ -20,6 +20,7 @@
   "license": "MIT",
   "dependencies": {
     "lodash": "^3.10.1",
+    "ps-tree": "^1.0.1",
     "win-spawn": "^2.0.0",
     "ws": "^1.0.1"
   },
